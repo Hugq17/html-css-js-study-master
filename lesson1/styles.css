@@ -1,0 +1,32 @@
+/*Selector */
+/* The CSS element Selector */
+p {}
+
+/* The CSS id Selector */
+
+#para1 {
+    text-align: center;
+    color: orange;
+}
+
+/* The CSS class Selector */
+
+.center {
+    text-align: center;
+    color: aqua;
+}
+
+/* The CSS Universal Selector */
+
+* {
+    /* color: pink */
+}
+
+/* The CSS Grouping Selector */
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    color: pink
+}
