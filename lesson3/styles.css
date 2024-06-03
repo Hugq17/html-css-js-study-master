@@ -1,0 +1,48 @@
+/* CSS links */
+/* Styling Links */
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+
+}
+
+a:active {
+    color: blue;
+}
+
+/* Text Decoration  */
+a:visited {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+    text-decoration: none;
+
+}
+
+a:active {
+    text-decoration: none;
+    color: blue;
+}
+
+/* Background Color */
+a:link {
+    background-color: yellow;
+}
+
+a:visited {
+    background-color: cyan;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+a:active {
+    background-color: hotpink;
+}
